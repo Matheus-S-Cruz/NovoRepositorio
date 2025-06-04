@@ -7,3 +7,6 @@ entra na pasta
 touch nome_arquivo
 vi nome_arquivo
 i - insert
+sair
+esc
+: + wq
